@@ -1,5 +1,5 @@
 class Tracker
-  attr_accessor :name, :city
+  attr_accessor :name 
   @@all = []
 
 end
