@@ -11,7 +11,7 @@ end
 
 def add_dog(dog)
     dog.Tracker = self
-    @dogs << dog 
-  end 
+    @dogs << dog
+  end
   
 end
